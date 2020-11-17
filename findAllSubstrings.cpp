@@ -1,3 +1,6 @@
+/************* Find all substring************/
+// sliding window approach
+
 #include<bits/stdc++>
 using namespace std;
 
